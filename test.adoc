@@ -1,5 +1,6 @@
 Asciidoctor Demo
 ================
+:toc: left
 ////
 Big ol' comment
 
