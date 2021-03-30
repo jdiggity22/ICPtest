@@ -6,6 +6,7 @@ Asciidoctor Demo
 ////
 Big ol' comment
 Big ol' comment number 2
+Big ol' comment number 3
 
 sittin' right 'tween this here title 'n header metadata
 ////
